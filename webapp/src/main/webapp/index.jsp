@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> Hello, Welcome to SNAZ DevOps Project1 !!! </h1>
+<h2> CI CD Pipeline with Git Jenkins Maven Tomcat </h2>
+<h3> Happy Learning </h3>
